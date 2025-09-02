@@ -1,0 +1,14 @@
+{
+  "easy": [
+    "What is a variable in programming?",
+    "Explain the difference between a list and a dictionary."
+  ],
+  "medium": [
+    "How does memory management work in Python?",
+    "Explain multithreading vs multiprocessing."
+  ],
+  "hard": [
+    "How would you optimize a large-scale distributed system?",
+    "Explain CAP theorem in databases."
+  ]
+}
